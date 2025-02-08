@@ -1,0 +1,28 @@
+
+***************************************************************************
+* Compilation
+***************************************************************************
+Executing: make clean
+Executing: make all
+Running: ./p1
+
+Hi! What is your name? Hello Darryl!
+Darryl found,  2  marks
+Running: ./p2
+
+Please enter two integers: The product of 5 and 10 is 50!
+5 found,  1  marks
+10 found,  1  marks
+50 found,  2  marks
+Running: ./p3
+
+Please enter two integers: 5 to the power 3 is 125!
+5 found,  1  marks
+3 found,  1  marks
+125 found,  2  marks
+
+
+***************************************************************************
+* Mark: 10/10
+***************************************************************************
+
